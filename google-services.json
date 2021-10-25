@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835833036805",
+    "project_id": "ambient-handler-330016",
+    "storage_bucket": "ambient-handler-330016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835833036805:android:0038a1d0cfb4c7034a9c6c",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationprova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835833036805-ubupiomu99ptvpciii7btvg9dhpmac8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH0BbGwknvkPwTD4y9F5mMUZFTb698Gi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835833036805-ubupiomu99ptvpciii7btvg9dhpmac8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
